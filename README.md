@@ -1,6 +1,7 @@
 # webDevCssTask.github.io
 this repo demonstrates how to connect CSS to HTML
 
+```
 ├── css
 │   └── style.css
 ├── img
@@ -8,3 +9,4 @@ this repo demonstrates how to connect CSS to HTML
 │   ├── inline.png
 │   └── internal.png
 └── index.html
+```
